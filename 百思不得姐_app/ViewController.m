@@ -15,8 +15,9 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    [super viewDidLoad];
+    [super viewDidLoad];//,,kl[kl'l['klkl;
     self.view.backgroundColor = [UIColor whiteColor];
+    
 }
 
 - (void)didReceiveMemoryWarning {
